@@ -137,7 +137,7 @@ window.onload = function (e) {
   const mailSign = document.getElementById("mailSign");
 
   const greetings = [
-    "Today is all about you — your smile, your heart, your beautiful soul. I hope this new year brings you peace, happiness, and everything your heart quietly wishes for. And while we celebrate you, I just want to say this from deep within: Don’t worry about the past. Whatever happened, I’ve accepted it — fully and without judgment. What matters to me is you, right now. I trust you, I believe in you, and I see something real between us. Just remember this — my love for you isn’t temporary. It’s here, steady and true, and it will stay with you until the end of my life."
+    "Today is all about you — your smile, your heart, your beautiful soul. I hope this new year brings you peace, happiness, and everything your heart quietly wishes for. And while we celebrate you, I just want to say this from deep within: Don’t worry about the past. Whatever happened, I’ve accepted it — fully and without judgment. What matters to me is you, right now. I trust you, I believe in you, and I see something real between us. Just remember this — my love for you isn’t temporary. It’s here, steady and true, and it will stay with you until the end of my life. Sudha, I Love You 🌹"
   ];
 
   const signs = [
